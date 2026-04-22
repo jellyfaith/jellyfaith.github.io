@@ -1,0 +1,20 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main] # 确保你的主分支叫 main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install, build, and upload with Astro
+        uses: withastro/action@v3
+        # 如果你用 pnpm，可以在这里指定，默认支持 npm/yarn/pnpm
