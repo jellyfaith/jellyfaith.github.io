@@ -1,6 +1,6 @@
 ---
 title: "JVM 的内存区域是如何划分的？"
-published: 2026-04-22
+published: 2026-04-07
 draft: false
 description: ""
 tags: [note]

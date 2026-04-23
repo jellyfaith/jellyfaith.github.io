@@ -1,6 +1,6 @@
 ---
 title: "为什么在 Git 中进行分支管理是必要的？"
-published: 2026-04-22
+published: 2026-02-01
 draft: false
 description: ""
 tags: [git]

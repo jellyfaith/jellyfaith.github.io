@@ -1,6 +1,6 @@
 ---
 title: "RabbitMQ 中消息什么时候会进入死信交换机？"
-published: 2026-04-22
+published: 2026-03-25
 draft: false
 description: ""
 tags: [note]

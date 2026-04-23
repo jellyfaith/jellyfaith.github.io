@@ -1,6 +1,6 @@
 ---
 title: "Java 线程池核心线程数在运行过程中能修改吗？如何修改？"
-published: 2026-04-22
+published: 2026-04-11
 draft: false
 description: ""
 tags: [note]

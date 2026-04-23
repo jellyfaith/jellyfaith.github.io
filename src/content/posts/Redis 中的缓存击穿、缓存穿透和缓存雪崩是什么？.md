@@ -1,6 +1,6 @@
 ---
 title: "Redis 中的缓存击穿、缓存穿透和缓存雪崩是什么？"
-published: 2026-04-22
+published: 2026-03-19
 draft: false
 description: ""
 tags: [note]

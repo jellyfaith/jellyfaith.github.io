@@ -1,6 +1,6 @@
 ---
 title: "Netty 是如何解决粘包和拆包问题的？"
-published: 2026-04-22
+published: 2026-03-27
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中长事务可能会导致哪些问题？"
-published: 2026-04-22
+published: 2026-03-28
 draft: false
 description: ""
 tags: [note]

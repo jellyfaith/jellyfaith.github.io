@@ -1,6 +1,6 @@
 ---
 title: "数组和链表在 Java 中的区别是什么？"
-published: 2026-04-22
+published: 2026-02-12
 draft: false
 description: ""
 tags: [note]

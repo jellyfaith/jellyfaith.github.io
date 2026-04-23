@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中有哪些锁类型？"
-published: 2026-04-22
+published: 2026-03-28
 draft: false
 description: ""
 tags: [note]

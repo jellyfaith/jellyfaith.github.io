@@ -1,6 +1,6 @@
 ---
 title: "如何将本地 Git 仓库与远程仓库同步？"
-published: 2026-04-22
+published: 2026-03-01
 draft: false
 description: ""
 tags: [git]

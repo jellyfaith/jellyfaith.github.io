@@ -1,6 +1,6 @@
 ---
 title: "为什么 Redis 设计为单线程？6.0 版本为何引入多线程？"
-published: 2026-04-22
+published: 2026-02-04
 draft: false
 description: ""
 tags: [note]

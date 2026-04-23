@@ -1,6 +1,6 @@
 ---
 title: "Redis 的 hash 是什么？"
-published: 2026-04-22
+published: 2026-03-25
 draft: false
 description: ""
 tags: [note]

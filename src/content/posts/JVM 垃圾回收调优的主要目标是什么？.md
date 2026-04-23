@@ -1,6 +1,6 @@
 ---
 title: "JVM 垃圾回收调优的主要目标是什么？"
-published: 2026-04-22
+published: 2026-04-07
 draft: false
 description: ""
 tags: [note]

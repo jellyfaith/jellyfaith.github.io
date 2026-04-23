@@ -1,6 +1,6 @@
 ---
 title: "常用的 JVM 配置参数有哪些？"
-published: 2026-04-22
+published: 2026-03-11
 draft: false
 description: ""
 tags: [note]

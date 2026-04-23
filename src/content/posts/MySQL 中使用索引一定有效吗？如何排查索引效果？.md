@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中使用索引一定有效吗？如何排查索引效果？"
-published: 2026-04-22
+published: 2026-03-29
 draft: false
 description: ""
 tags: [note]

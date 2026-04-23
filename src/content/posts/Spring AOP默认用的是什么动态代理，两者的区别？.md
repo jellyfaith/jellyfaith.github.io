@@ -1,6 +1,6 @@
 ---
 title: "Spring AOP默认用的是什么动态代理，两者的区别？"
-published: 2026-04-22
+published: 2026-03-17
 draft: false
 description: ""
 tags: [note]

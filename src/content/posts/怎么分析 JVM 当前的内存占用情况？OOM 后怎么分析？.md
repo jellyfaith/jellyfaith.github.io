@@ -1,6 +1,6 @@
 ---
 title: "怎么分析 JVM 当前的内存占用情况？OOM 后怎么分析？"
-published: 2026-04-22
+published: 2026-01-25
 draft: false
 description: ""
 tags: [note]

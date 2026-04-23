@@ -1,6 +1,6 @@
 ---
 title: "Redis 通常应用于哪些场景？"
-published: 2026-04-22
+published: 2026-03-22
 draft: false
 description: ""
 tags: [note]

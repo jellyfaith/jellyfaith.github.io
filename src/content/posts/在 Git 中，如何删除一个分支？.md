@@ -1,6 +1,6 @@
 ---
 title: "在 Git 中，如何删除一个分支？"
-published: 2026-04-22
+published: 2026-01-26
 draft: false
 description: ""
 tags: [git]

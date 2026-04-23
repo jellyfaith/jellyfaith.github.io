@@ -1,6 +1,6 @@
 ---
 title: "什么是 Git 的合并操作？有什么作用？"
-published: 2026-04-22
+published: 2026-02-22
 draft: false
 description: ""
 tags: [git]

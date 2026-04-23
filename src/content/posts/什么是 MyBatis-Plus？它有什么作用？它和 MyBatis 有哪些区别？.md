@@ -1,6 +1,6 @@
 ---
 title: "什么是 MyBatis-Plus？它有什么作用？它和 MyBatis 有哪些区别？"
-published: 2026-04-22
+published: 2026-02-19
 draft: false
 description: ""
 tags: [note]

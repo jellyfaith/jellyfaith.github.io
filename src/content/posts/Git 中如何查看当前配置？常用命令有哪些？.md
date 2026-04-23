@@ -1,6 +1,6 @@
 ---
 title: "Git 中如何查看当前配置？常用命令有哪些？"
-published: 2026-04-22
+published: 2026-04-16
 draft: false
 description: ""
 tags: [git]

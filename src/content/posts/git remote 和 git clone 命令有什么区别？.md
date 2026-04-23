@@ -1,6 +1,6 @@
 ---
 title: "git remote 和 git clone 命令有什么区别？"
-published: 2026-04-22
+published: 2026-04-21
 draft: false
 description: ""
 tags: [git]

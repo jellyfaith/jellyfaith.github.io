@@ -1,6 +1,6 @@
 ---
 title: "Java 中什么情况会导致死锁？如何避免？"
-published: 2026-04-22
+published: 2026-04-08
 draft: false
 description: ""
 tags: [note]

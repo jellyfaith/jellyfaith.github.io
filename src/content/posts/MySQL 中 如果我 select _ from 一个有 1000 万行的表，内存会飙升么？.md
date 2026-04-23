@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中 如果我 select * from 一个有 1000 万行的表，内存会飙升么？"
-published: 2026-04-22
+published: 2026-03-31
 draft: false
 description: ""
 tags: [note]

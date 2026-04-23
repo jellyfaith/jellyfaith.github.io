@@ -1,6 +1,6 @@
 ---
 title: "Java 中常见的垃圾收集器有哪些？"
-published: 2026-04-22
+published: 2026-04-09
 draft: false
 description: ""
 tags: [note]

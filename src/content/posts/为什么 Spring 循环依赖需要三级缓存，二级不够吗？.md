@@ -1,6 +1,6 @@
 ---
 title: "为什么 Spring 循环依赖需要三级缓存，二级不够吗？"
-published: 2026-04-22
+published: 2026-02-03
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中的索引数量是否越多越好？为什么？"
-published: 2026-04-22
+published: 2026-03-30
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "为什么 TCP 挥手需要有 TIME_WAIT 状态?"
-published: 2026-04-22
+published: 2026-02-03
 draft: false
 description: ""
 tags: [note]

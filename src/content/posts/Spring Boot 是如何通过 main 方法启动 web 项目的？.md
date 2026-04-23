@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot 是如何通过 main 方法启动 web 项目的？"
-published: 2026-04-22
+published: 2026-03-16
 draft: false
 description: ""
 tags: [note]

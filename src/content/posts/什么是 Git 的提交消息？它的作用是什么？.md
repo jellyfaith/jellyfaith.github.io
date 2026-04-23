@@ -1,6 +1,6 @@
 ---
 title: "什么是 Git 的提交消息？它的作用是什么？"
-published: 2026-04-22
+published: 2026-02-22
 draft: false
 description: ""
 tags: [git]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 是如何实现事务的？"
-published: 2026-04-22
+published: 2026-04-01
 draft: false
 description: ""
 tags: [note]

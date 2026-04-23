@@ -1,6 +1,6 @@
 ---
 title: "Git 中如何查看提交历史？常用命令有哪些？"
-published: 2026-04-22
+published: 2026-04-15
 draft: false
 description: ""
 tags: [git]

@@ -1,6 +1,6 @@
 ---
 title: "Git 中如何配置用户信息？"
-published: 2026-04-22
+published: 2026-04-14
 draft: false
 description: ""
 tags: [git]

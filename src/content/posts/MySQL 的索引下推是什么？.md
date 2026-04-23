@@ -1,6 +1,6 @@
 ---
 title: "MySQL 的索引下推是什么？"
-published: 2026-04-22
+published: 2026-04-03
 draft: false
 description: ""
 tags: [note]

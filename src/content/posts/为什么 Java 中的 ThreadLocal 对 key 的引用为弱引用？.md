@@ -1,6 +1,6 @@
 ---
 title: "为什么 Java 中的 ThreadLocal 对 key 的引用为弱引用？"
-published: 2026-04-22
+published: 2026-02-05
 draft: false
 description: ""
 tags: [note]

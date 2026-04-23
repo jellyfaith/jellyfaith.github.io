@@ -1,6 +1,6 @@
 ---
 title: "MySQL 默认的事务隔离级别是什么？为什么选择这个级别？"
-published: 2026-04-22
+published: 2026-04-02
 draft: false
 description: ""
 tags: [note]

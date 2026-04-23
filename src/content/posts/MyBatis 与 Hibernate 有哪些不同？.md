@@ -1,6 +1,6 @@
 ---
 title: "MyBatis 与 Hibernate 有哪些不同？"
-published: 2026-04-22
+published: 2026-04-05
 draft: false
 description: ""
 tags: [note]

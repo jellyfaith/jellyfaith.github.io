@@ -1,6 +1,6 @@
 ---
 title: "为什么 Java 中 HashMap 的默认负载因子是 0.75？"
-published: 2026-04-22
+published: 2026-02-06
 draft: false
 description: ""
 tags: [note]

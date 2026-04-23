@@ -1,6 +1,6 @@
 ---
 title: "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？"
-published: 2026-04-22
+published: 2026-02-04
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "如何处理 MySQL 的主从同步延迟？"
-published: 2026-04-22
+published: 2026-03-02
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "Redis 和 Memcached 有哪些区别？"
-published: 2026-04-22
+published: 2026-03-23
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "Redis 中如何保证缓存与数据库的数据一致性？"
-published: 2026-04-22
+published: 2026-03-19
 draft: false
 description: ""
 tags: [note]

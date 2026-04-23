@@ -1,6 +1,6 @@
 ---
 title: "Kafka为什么要抛弃 Zookeeper？"
-published: 2026-04-22
+published: 2026-04-05
 draft: false
 description: ""
 tags: [note]

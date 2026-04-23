@@ -1,6 +1,6 @@
 ---
 title: "线程的生命周期在 Java 中是如何定义的？"
-published: 2026-04-22
+published: 2026-02-01
 draft: false
 description: ""
 tags: [note]

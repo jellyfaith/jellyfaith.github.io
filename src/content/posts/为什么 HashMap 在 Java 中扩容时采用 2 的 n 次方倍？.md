@@ -1,6 +1,6 @@
 ---
 title: "为什么 HashMap 在 Java 中扩容时采用 2 的 n 次方倍？"
-published: 2026-04-22
+published: 2026-02-06
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "为什么 MySQL 选择使用 B+ 树作为索引结构？"
-published: 2026-04-22
+published: 2026-02-05
 draft: false
 description: ""
 tags: [note]

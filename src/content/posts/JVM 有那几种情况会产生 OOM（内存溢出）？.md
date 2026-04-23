@@ -1,6 +1,6 @@
 ---
 title: "JVM 有那几种情况会产生 OOM（内存溢出）？"
-published: 2026-04-22
+published: 2026-04-06
 draft: false
 description: ""
 tags: [note]

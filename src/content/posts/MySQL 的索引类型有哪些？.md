@@ -1,6 +1,6 @@
 ---
 title: "MySQL 的索引类型有哪些？"
-published: 2026-04-22
+published: 2026-04-03
 draft: false
 description: ""
 tags: [note]

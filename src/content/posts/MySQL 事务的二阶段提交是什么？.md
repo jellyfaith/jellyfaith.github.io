@@ -1,6 +1,6 @@
 ---
 title: "MySQL 事务的二阶段提交是什么？"
-published: 2026-04-22
+published: 2026-04-02
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 中 count(*)、count(1) 和 count(字段名) 有什么区别？"
-published: 2026-04-22
+published: 2026-04-01
 draft: false
 description: ""
 tags: [note]

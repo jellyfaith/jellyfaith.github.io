@@ -1,6 +1,6 @@
 ---
 title: "Redis 中有哪些内存淘汰策略？"
-published: 2026-04-22
+published: 2026-03-18
 draft: false
 description: ""
 tags: [note]

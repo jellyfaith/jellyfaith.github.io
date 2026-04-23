@@ -1,6 +1,6 @@
 ---
 title: "如何对 Java 的垃圾回收进行调优？"
-published: 2026-04-22
+published: 2026-03-02
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "Git 中的 .gitignore 文件的作用是什么？如何配置？"
-published: 2026-04-22
+published: 2026-04-18
 draft: false
 description: ""
 tags: [git]

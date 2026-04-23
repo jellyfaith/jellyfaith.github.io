@@ -1,6 +1,6 @@
 ---
 title: "如何理解 Spring Boot 中的 starter？"
-published: 2026-04-22
+published: 2026-03-01
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 索引的最左前缀匹配原则是什么？"
-published: 2026-04-22
+published: 2026-04-01
 draft: false
 description: ""
 tags: [note]

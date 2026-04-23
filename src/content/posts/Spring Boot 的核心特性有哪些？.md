@@ -1,6 +1,6 @@
 ---
 title: "Spring Boot 的核心特性有哪些？"
-published: 2026-04-22
+published: 2026-03-16
 draft: false
 description: ""
 tags: [note]

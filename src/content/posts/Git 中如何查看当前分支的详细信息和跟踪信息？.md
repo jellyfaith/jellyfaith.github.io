@@ -1,6 +1,6 @@
 ---
 title: "Git 中如何查看当前分支的详细信息和跟踪信息？"
-published: 2026-04-22
+published: 2026-04-16
 draft: false
 description: ""
 tags: [git]

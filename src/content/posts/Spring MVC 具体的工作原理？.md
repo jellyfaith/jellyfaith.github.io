@@ -1,6 +1,6 @@
 ---
 title: "Spring MVC 具体的工作原理？"
-published: 2026-04-22
+published: 2026-03-16
 draft: false
 description: ""
 tags: [note]

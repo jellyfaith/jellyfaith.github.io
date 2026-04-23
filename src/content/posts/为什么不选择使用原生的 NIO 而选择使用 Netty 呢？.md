@@ -1,6 +1,6 @@
 ---
 title: "为什么不选择使用原生的 NIO 而选择使用 Netty 呢？"
-published: 2026-04-22
+published: 2026-02-02
 draft: false
 description: ""
 tags: [note]

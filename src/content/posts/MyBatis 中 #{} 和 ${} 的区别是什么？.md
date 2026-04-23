@@ -1,6 +1,6 @@
 ---
 title: "MyBatis 中 #{} 和 ${} 的区别是什么？"
-published: 2026-04-22
+published: 2026-04-05
 draft: false
 description: ""
 tags: [note]

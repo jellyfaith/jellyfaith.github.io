@@ -1,6 +1,6 @@
 ---
 title: "编译执行与解释执行的区别是什么？JVM 使用哪种方式？"
-published: 2026-04-22
+published: 2026-03-12
 draft: false
 description: ""
 tags: [note]

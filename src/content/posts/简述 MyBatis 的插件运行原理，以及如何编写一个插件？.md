@@ -1,6 +1,6 @@
 ---
 title: "简述 MyBatis 的插件运行原理，以及如何编写一个插件？"
-published: 2026-04-22
+published: 2026-03-08
 draft: false
 description: ""
 tags: [note]

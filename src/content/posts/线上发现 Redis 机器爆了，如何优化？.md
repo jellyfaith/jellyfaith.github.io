@@ -1,6 +1,6 @@
 ---
 title: "线上发现 Redis 机器爆了，如何优化？"
-published: 2026-04-22
+published: 2026-01-31
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "MySQL 三层 B+ 树能存多少数据？"
-published: 2026-04-22
+published: 2026-04-02
 draft: false
 description: ""
 tags: [note]

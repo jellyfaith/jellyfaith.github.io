@@ -1,6 +1,6 @@
 ---
 title: "Redis 的持久化机制有哪些？"
-published: 2026-04-22
+published: 2026-03-24
 draft: false
 description: ""
 tags: [note]

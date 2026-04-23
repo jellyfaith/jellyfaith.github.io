@@ -1,6 +1,6 @@
 ---
 title: "RocketMQ 的事务消息有什么缺点？你还了解过别的事务消息实现吗？"
-published: 2026-04-22
+published: 2026-03-17
 draft: false
 description: ""
 tags: [note]

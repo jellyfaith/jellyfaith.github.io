@@ -1,6 +1,6 @@
 ---
 title: "Java 中有哪些垃圾回收算法？"
-published: 2026-04-22
+published: 2026-04-08
 draft: false
 description: ""
 tags: [note]

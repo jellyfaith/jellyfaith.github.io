@@ -1,6 +1,6 @@
 ---
 title: "什么是 Git？它的主要功能是什么？"
-published: 2026-04-22
+published: 2026-02-21
 draft: false
 description: ""
 tags: [git]

@@ -1,6 +1,6 @@
 ---
 title: "Redis 数据过期后的删除策略是什么？"
-published: 2026-04-22
+published: 2026-03-22
 draft: false
 description: ""
 tags: [note]

@@ -1,6 +1,6 @@
 ---
 title: "Redis 为什么这么快？"
-published: 2026-04-22
+published: 2026-03-21
 draft: false
 description: ""
 tags: [note]

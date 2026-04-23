@@ -1,6 +1,6 @@
 ---
 title: "MySQL 的覆盖索引是什么？"
-published: 2026-04-22
+published: 2026-04-04
 draft: false
 description: ""
 tags: [note]

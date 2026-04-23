@@ -1,6 +1,6 @@
 ---
 title: "说下 Spring Bean 的生命周期？"
-published: 2026-04-22
+published: 2026-02-08
 draft: false
 description: ""
 tags: [note]

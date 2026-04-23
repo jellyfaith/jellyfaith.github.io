@@ -1,6 +1,6 @@
 ---
 title: "git reset 命令的作用是什么？"
-published: 2026-04-22
+published: 2026-04-21
 draft: false
 description: ""
 tags: [git]

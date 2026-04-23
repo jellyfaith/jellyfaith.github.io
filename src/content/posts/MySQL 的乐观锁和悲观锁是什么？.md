@@ -1,6 +1,6 @@
 ---
 title: "MySQL 的乐观锁和悲观锁是什么？"
-published: 2026-04-22
+published: 2026-04-03
 draft: false
 description: ""
 tags: [note]

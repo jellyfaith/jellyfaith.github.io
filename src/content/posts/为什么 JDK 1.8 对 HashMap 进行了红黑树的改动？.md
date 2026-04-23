@@ -1,6 +1,6 @@
 ---
 title: "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？"
-published: 2026-04-22
+published: 2026-02-05
 draft: false
 description: ""
 tags: [note]

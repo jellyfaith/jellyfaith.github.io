@@ -1,6 +1,6 @@
 ---
 title: "Redis 集群会出现脑裂问题吗？"
-published: 2026-04-22
+published: 2026-03-23
 draft: false
 description: ""
 tags: [note]

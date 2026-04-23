@@ -1,6 +1,6 @@
 ---
 title: "什么是 MySQL 的主从同步机制？它是如何实现的？"
-published: 2026-04-22
+published: 2026-02-19
 draft: false
 description: ""
 tags: [note]

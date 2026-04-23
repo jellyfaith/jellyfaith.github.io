@@ -1,6 +1,6 @@
 ---
 title: "让你设计一个分布式 ID 发号器，怎么设计？"
-published: 2026-04-22
+published: 2026-03-03
 draft: false
 description: ""
 tags: [note]

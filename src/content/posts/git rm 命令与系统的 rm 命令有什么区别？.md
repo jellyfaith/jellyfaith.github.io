@@ -1,6 +1,6 @@
 ---
 title: "git rm 命令与系统的 rm 命令有什么区别？"
-published: 2026-04-22
+published: 2026-04-21
 draft: false
 description: ""
 tags: [git]
