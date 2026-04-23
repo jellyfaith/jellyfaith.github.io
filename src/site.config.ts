@@ -2,7 +2,7 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://jellyfaith.github.io',
   // The name of your site, used in the title and for SEO.
   title: 'Jellyfaith的blog',
   // The description of your site, used for SEO and RSS feed.
@@ -166,10 +166,10 @@ const config: SiteConfig = {
   // IMPORTANT: Update giscus.json in the root of the project with your own website URL
   // If you don't want to use Giscus, set this to undefined.
   giscus: {
-    repo: 'stelcodes/multiterm-astro',
-    repoId: 'R_kgDOPNnBig',
-    category: 'Giscus',
-    categoryId: 'DIC_kwDOPNnBis4CteOc',
+    repo: 'jellyfaith/jellyfaith.github.io',
+    repoId: 'R_kgDOSJyl4g',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDOSJyl4s4C7iAQ',
     reactionsEnabled: true, // Enable reactions on post itself
   },
   // These are characters available for the character chat feature.

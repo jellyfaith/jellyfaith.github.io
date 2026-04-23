@@ -1,7 +1,7 @@
 ---
 avatarImage:
-  src: './avatar.jpg'
+  src: './jellyfaith.jpg'
   alt: 'My avatar'
 ---
 
-Thanks for reading my blog post! Feel free to check out my other posts or contact me via the social links in the footer.
+文章看完了，不打算去别的篇章转转吗？👀 感谢你的耐心阅读！如果你有问题想探讨，或者发现了文中的 Bug，请务必通过页脚的链接联系我
